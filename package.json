@@ -2,7 +2,7 @@
   "name": "seam.js",
   "version": "1.0.0",
   "description": "JS implementation of SEAM",
-  "main": "seam.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc -p .",

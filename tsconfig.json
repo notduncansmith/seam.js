@@ -1,5 +1,5 @@
 {
-  "include": ["seam.ts"],
+  "include": ["index.ts"],
   "ts-node": {
       "files": true
   },
@@ -10,6 +10,8 @@
       "allowJs": true,
       "allowSyntheticDefaultImports": true,
       "esModuleInterop": true,
-      "types": ["node", "mocha"]
+      "types": ["node", "mocha"],
+      "sourceMap": true,
+      "outDir": "dist"
   },
 }
