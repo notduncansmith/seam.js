@@ -1,0 +1,9 @@
+semi: false
+singleQuote: true
+printWidth: 110
+tabWidth: 2
+useTabs: false
+trailingCommas: es5
+bracketSpacing: true
+arrowParens: avoid
+parser: typescript
